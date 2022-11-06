@@ -22,7 +22,7 @@ export default function Home() {
       isOwnerVerify: true,
     },
     {
-      owner: 'Min',
+      owner: '0x05EE44A05A48104773b66B2d4481E64Ef355c85d',
       ip: '139.162.108.191',
       version: '0.0.0',
       totalTransactions: 0,
@@ -31,7 +31,7 @@ export default function Home() {
       isOwnerVerify: false,
     },
     {
-      owner: '大叔',
+      owner: '0x77A2c36CE7168c9CD44387fD41F339e6F905457e',
       ip: '172.104.93.137',
       version: '0.0.0',
       totalTransactions: 0,
@@ -40,7 +40,7 @@ export default function Home() {
       isOwnerVerify: false,
     },
     {
-      owner: 'Ocean',
+      owner: '0xf652DB8c496C0fC259148327Fa0F3960F466060D',
       ip: '139.162.31.170',
       version: '0.0.0',
       totalTransactions: 0,
