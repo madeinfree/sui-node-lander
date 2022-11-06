@@ -39,6 +39,15 @@ export default function Home() {
       isUpdated: false,
       isOwnerVerify: false,
     },
+    {
+      owner: '',
+      ip: '139.162.31.170',
+      version: '0.0.0',
+      totalTransactions: 0,
+      last: false,
+      isUpdated: false,
+      isOwnerVerify: false,
+    },
   ])
 
   useEffect(() => {
