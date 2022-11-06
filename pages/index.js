@@ -22,7 +22,7 @@ export default function Home() {
       isOwnerVerify: true,
     },
     {
-      owner: '',
+      owner: 'Min',
       ip: '139.162.108.191',
       version: '0.0.0',
       totalTransactions: 0,
@@ -31,7 +31,7 @@ export default function Home() {
       isOwnerVerify: false,
     },
     {
-      owner: '',
+      owner: '大叔',
       ip: '172.104.93.137',
       version: '0.0.0',
       totalTransactions: 0,
@@ -40,7 +40,7 @@ export default function Home() {
       isOwnerVerify: false,
     },
     {
-      owner: '',
+      owner: 'Ocean',
       ip: '139.162.31.170',
       version: '0.0.0',
       totalTransactions: 0,
