@@ -7,7 +7,7 @@ import Navbar from 'react-bootstrap/Navbar'
 import Table from 'react-bootstrap/Table'
 
 export default function Home() {
-  const currentVersion = '0.16.0'
+  const currentVersion = '0.17.0'
   const [devnet, setDevnet] = useState({
     totalTransactions: 0,
   })
